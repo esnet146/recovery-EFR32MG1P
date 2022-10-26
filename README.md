@@ -30,3 +30,5 @@ GND->GNG, RST->RST, CLK->SWCLK, TMS->SWDIO
 
 Можно пользоватся.
 
+ps
+[ncp.zip](https://github.com/esnet146/recovery-EFR32MG1P/files/9868818/ncp.zip)
